@@ -1,5 +1,8 @@
 /*
--kthsmallest
+-implement a function that finds the kth smallest element in an array using the first value as the pivot. the patition function must be used and implemented.
+-xx5546ys, John Klein
+-2/15/2024
+-Dr. Jie Hu Meichsner
 */
 
 #include <iostream>
@@ -39,8 +42,12 @@ int partition(int *arr, int low, int high)
         { // if i is less than j, swap the elements at i and j
             std::swap(arr[i], arr[j]);
         }
+        // for (int i = 0; i < sizeof(arr); i++)  std::cout << arr[i] << " "; //print array to debug
+        // std::cout << std::endl;
     }
     std::swap(arr[low], arr[j]); // swap the pivot with the element at j
+    // for (int i = 0; i < sizeof(arr); i++)  std::cout << arr[i] << " "; //print array to debug
+    // std::cout << std::endl;
     return j;                    // return the index of the pivot
 }
 

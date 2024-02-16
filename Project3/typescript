@@ -1,0 +1,24 @@
+Script started on Thu 15 Feb 2024 09:23:48 PM CST
+]0;xx5546ys@csci4:~/CSCI301/Project3[?1034h[xx5546ys@csci4 Project3]$ proh[Kject [K[K[K[K[K[K[K[Kg++ Project3.cpp -o P[Kproject3.exer[K
+]0;xx5546ys@csci4:~/CSCI301/Project3[xx5546ys@csci4 Project3]$ ./projexc[K[Kct 3[K[K3.exe
+plaese enter the size of the array: 7
+please enter the elements of the array: 
+12 3 5 7 3 4 19 26
+please enter the kth smallest element: 3
+The kth smallest element is: 5
+]0;xx5546ys@csci4:~/CSCI301/Project3[xx5546ys@csci4 Project3]$ ./project3.exe
+plaese enter the size of the array: 7
+please enter the elements of the array: 
+5 3 7 4 19 26 12  
+please enter the kth smallest element: 3
+The kth smallest element is: 5
+]0;xx5546ys@csci4:~/CSCI301/Project3[xx5546ys@csci4 Project3]$ ./project3.exe
+plaese enter the size of the array: 19 26     7
+please enter the elements of the array: 
+19 26 12 18 25 20 30
+please enter the kth smallest element: 3
+The kth smallest element is: 19
+]0;xx5546ys@csci4:~/CSCI301/Project3[xx5546ys@csci4 Project3]$ exit
+exit
+
+Script done on Thu 15 Feb 2024 09:26:34 PM CST
