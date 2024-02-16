@@ -1,0 +1,19 @@
+Script started on Thu 18 Jan 2024 08:37:13 PM CST
+]0;xx5546ys@csci4:~/CSCI301/Project1/task2[?1034h[xx5546ys@csci4 task2]$ exitctl-d./Project1_task1.exeg++ Project1_task1.cpp Fraction.cpp -o Project1_task1.exe[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1@n[1@e[1@w[1@F[1@r[1@a[1@c[1@t[1@i[1@o[1@n[1@1[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.exe2.exe[C[C[C[C
+]0;xx5546ys@csci4:~/CSCI301/Project1/task2[xx5546ys@csci4 task2]$ ./Project1_task2.exe
+enter the first fraction: numerator denominator
+3 5
+enter the second fraction: numerator denominator
+2 3
+the two fractions are:
+f1 = 3/5
+f2 = 2/3
+the arithmetic operations are:
+f1 + f2 = 19/15
+f1 - f2 = -1/15
+f1 * f2 = 6/15
+f1 / f2 = 9/10
+]0;xx5546ys@csci4:~/CSCI301/Project1/task2[xx5546ys@csci4 task2]$ exit
+exit
+
+Script done on Thu 18 Jan 2024 08:38:24 PM CST

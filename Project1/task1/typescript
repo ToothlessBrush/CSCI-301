@@ -1,0 +1,16 @@
+Script started on Thu 18 Jan 2024 08:35:07 PM CST
+]0;xx5546ys@csci4:~/CSCI301/Project1/task1[?1034h[xx5546ys@csci4 task1]$ g++ Project[Kt1_task1.cpp fa[Kractopnm[K[K[K[Kion.cpp[Kp -o[Ko Projecyt[K[Kt1_task1.w[Kexe
+g++: error: fraction.cpp: No such file or directory
+]0;xx5546ys@csci4:~/CSCI301/Project1/task1[xx5546ys@csci4 task1]$ g++ Project1_task1.cpp fraction.cpp -o Project1_task1.exe[1P[1@F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;xx5546ys@csci4:~/CSCI301/Project1/task1[xx5546ys@csci4 task1]$ ./Project [K1_task1.exe
+1/2
+changing fraction
+3/4
+3
+4
+]0;xx5546ys@csci4:~/CSCI301/Project1/task1[xx5546ys@csci4 task1]$ ctl=d[K[K-d
+bash: ctl-d: command not found...
+]0;xx5546ys@csci4:~/CSCI301/Project1/task1[xx5546ys@csci4 task1]$ exit
+exit
+
+Script done on Thu 18 Jan 2024 08:36:39 PM CST

@@ -1,0 +1,20 @@
+Script started on Thu 18 Jan 2024 08:38:59 PM CST
+]0;xx5546ys@csci4:~/CSCI301/Project1/task3[?1034h[xx5546ys@csci4 task3]$ g++ Project [K1_task3.cpp newFraction2.cpp -o Project [K1_task2.cpp[1P.cpp3.cpp[C[C[C[C
+]0;xx5546ys@csci4:~/CSCI301/Project1/task3[xx5546ys@csci4 task3]$ cd [K[K[Kg++ Project1_task3.cpp newFraction2.cpp -o Project1_task3.cpp[K[K[K[Ke[K.exe
+]0;xx5546ys@csci4:~/CSCI301/Project1/task3[xx5546ys@csci4 task3]$ g++ Project1_task3.cpp newFraction2.cpp -o Project1_task3.execpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./Project1_task2.exe[1P.exe3.exe
+enter the first fraction: numerator denominator
+3 5
+enter the second fraction: numerator denominator
+2 3
+the two fractions are:
+f1 = 3/5
+f2 = 2/3
+the arithmetic operations are:
+f1 + f2 = 19/15
+f1 - f2 = -1/15
+f1 * f2 = 6/15
+f1 / f2 = 9/10
+]0;xx5546ys@csci4:~/CSCI301/Project1/task3[xx5546ys@csci4 task3]$ exit
+exit
+
+Script done on Thu 18 Jan 2024 08:40:12 PM CST
