@@ -1,0 +1,20 @@
+Script started on Fri 23 Feb 2024 11:41:16 PM CST
+]0;xx5546ys@csci4:~/CSCI301/Project4/task2[?1034h[xx5546ys@csci4 task2]$ g++ -[K[K[K[K[Kexit[1Pndquit./a.outg++ Project4_1.cpp[11P./a.outg++ Project4.cpp[9P./a.outg++ NodeTest.cpp[3P--versionNodeTest.cpp[8Pcd task1Project4[3Pgit pushcommit -m "project 2"add .[K[4Pcd ..[1P./..[2P./project3.exeg++ Project3.cpp -o project3.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P./project3.exeg++ Project3.cpp -o project3.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P./project3.exe.[K/..cd ..git add .commit -m "project 2"push[Kcd Project4[3Ptask1g++ NodeTest.cpp[3P--versionNodeTest.cpp[9P./a.outg++ Project4.cpp[9P./a.outg++ Project4_1.cpp[11P./a.out[3Pquit[1Pendxit[Kg++ --[Kstd=gnu++0x Project3[K4_2.cpp
+]0;xx5546ys@csci4:~/CSCI301/Project4/task2[xx5546ys@csci4 task2]$ a.[K[K./a.out
+enter the name of the file that contains the word to check:
+myreport  .e txt
+the following words in the file "myreport.txt" are not spelled correctly:
+ths
+rport
+spel
+systme
+contians
+mispelled
+word
+s
+tes
+
+thanks for using the spell checker system!]0;xx5546ys@csci4:~/CSCI301/Project4/task2[xx5546ys@csci4 task2]$ q[Kexit
+exit
+
+Script done on Fri 23 Feb 2024 11:42:36 PM CST
