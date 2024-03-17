@@ -1,0 +1,25 @@
+Script started on Sun 17 Mar 2024 01:04:36 AM CDT
+]0;xx5546ys@csci4:~/CSCI301/Project5/task2[?1034h[xx5546ys@csci4 task2]$  /usr/bin/env /bin/sh /tmp/Microosoft-MIEngine-Cmd-zucpaazb.3tt [A./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -std=c++11 main.cpp
+]0;xx5546ys@csci4:~/CSCI301/Project5/task2[xx5546ys@csci4 task2]$ g++ -std=c++11 main.cpp /usr/bin/env /bin/sh /tmp/Microosoft-MIEngine-Cmd-zucpaazb.3tt [A./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+welcome to the Infix Calculator!
+Enter an infix expression: 2+3
+postfixExpression: 23+
+the result is: 5
+Do you want to enter another expression? (y/n): y
+Enter an infix expression: (5+2)*3-4/2
+postfixExpression: 52+3*42/-
+the result is: 19
+Do you want to enter another expression? (y/n): y
+Enter an infix expression: ((9-(3*2))/(4+1))
+postfixExpression: 932*-41+/
+the result is: 0.6
+Do you want to enter another expression? (y/n): y
+Enter an infix expression: ((3+4)*(5-2)
+Invalid infix expression
+Do you want to enter another expression? (y/n): nm
+]0;xx5546ys@csci4:~/CSCI301/Project5/task2[xx5546ys@csci4 task2]$ exit
+exit
+
+Script done on Sun 17 Mar 2024 01:05:39 AM CDT
